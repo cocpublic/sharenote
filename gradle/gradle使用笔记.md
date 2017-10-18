@@ -1,4 +1,7 @@
-chrome安TOC装插件来获取更好的 阅读体验：[去安装]()
+>chrome安装两个TOC装插件来获取更好的 阅读体验：
+>[github toc 文首导航](https://chrome.google.com/webstore/detail/github-toc/nalkpgbfaadkpckoadhlkihofnbhfhek)
+>[GayHub 浮动导航](https://chrome.google.com/webstore/detail/gayhub/mdcffelghikdiafnfodjlgllenhlnejl)
+
 ---
 
 ## gradle配置
